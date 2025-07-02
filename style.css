@@ -109,6 +109,7 @@ h1 {
 .contato h3 {
   color: var(--verde);
   margin-bottom: 0.5rem; /* estava 1rem */
+  font-size: 0.8  rem;
 }
 .whatsapp {
   display: flex;
@@ -118,13 +119,13 @@ h1 {
   margin: 0.5rem 0;
   color: #333;
   font-weight: 500;
-  font-size: 1.1rem;
+  font-size: 0.1  rem;
   transition: transform 0.2s;
 }
 
 .whatsapp img {
-  width: 24px;
-  height: 24px;
+  width: 18px;
+  height: 18px;
   margin-right: 10px;
   filter: brightness(0) saturate(100%) invert(47%) sepia(71%) saturate(463%) hue-rotate(83deg) brightness(95%) contrast(85%);
 }

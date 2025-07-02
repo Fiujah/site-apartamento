@@ -9,6 +9,11 @@ const imagens = [
   "sala2.jpg",
   "sala3.jpg",
   "sala4.jpg",
+  "cozinha1.jpg",
+  "cozinha2.jpg",
+  "cozinha3.jpg",
+  "cozinha4.jpg",
+  "cozinha5.jpg",
   "quarto1.1.jpg",
   "quarto1.2.jpg",
   "quarto1.3.jpg",
@@ -17,8 +22,15 @@ const imagens = [
   "quarto2.2.jpg",
   "quarto2.3.jpg",
   "quarto2.4.jpg",
-  //"cozinha1.jpg",
-  //"banheiro1.jpg"
+  "banheiro1.jpg",
+  "banheiro2.jpg",
+  "banheiro3.jpg",
+  "banheiro4.jpg",
+  "banheiro5.jpg",
+  "lavatorio1.jpg",
+  "lavatorio2.jpg",
+  "lavanderia1.jpg",
+  "lavanderia2.jpg",
 ];
 
 imagens.forEach(nome => {
